@@ -1,2 +1,109 @@
 # Tienda-edc
 tienda
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tienda EDC</title>
+</head>
+<body bgcolor="dimgray">
+
+<h1>Tienda EDC</h1>
+<img src="C:\Users\PC\Pictures\Logo.PNG" width="30%">
+ 
+<h2>¿que es?</h2>
+<p><strong>Tienda EDC</strong> es una plataforma digital diseñada para ofrecer una experiencia de compra cómoda, segura y moderna,
+enfocada en productos electrónicos de alta calidad. La aplicación permite a los usuarios explorar un extenso catálogo
+que incluye desde dispositivos móviles, laptops y accesorios tecnológicos, hasta electrodomésticos inteligentes y gadgets
+innovadores.</p>
+
+<p>Además,<strong>Tienda EDC</strong> se destaca por:</p>
+
+<p><strong>Navegación Intuitiva:</strong> Los usuarios pueden buscar productos por categoría, marca o características específicas, con un diseño
+fácil de usar.</p>
+
+<p><strong>Ofertas y Descuentos Exclusivos:</strong> Promociones únicas y descuentos periódicos para quienes compren a través de la aplicación.</p>
+
+<p><strong>Seguridad en las Compras:</strong> Métodos de pago confiables que garantizan la protección de los datos personales y financieros.</p>
+
+<p><strong>Soporte al Cliente:</strong> Un sistema de atención al cliente disponible para resolver dudas y brindar asistencia en cada etapa
+del proceso de compra.</p>
+
+<p><strong>Envíos Rápidos:</strong> Opciones de envío estándar y exprés, adaptadas a las necesidades del usuario.
+Ideal para quienes buscan la última tecnología desde la comodidad de su hogar.</p>
+
+<h2>objetivo</h2>
+<p>El principal objetivo de <strong>Tienda EDC</strong> es facilitar la adquisición de productos electrónicos, ofreciendo a los
+usuarios una experiencia de compra práctica, eficiente y accesible. A través de esta plataforma, busca satisfacer
+las necesidades tecnológicas del público al proporcionar un amplio catálogo de dispositivos de última generación,
+herramientas innovadoras y accesorios esenciales.</p>
+
+<p>Entre los objetivos específicos de <strong>Tienda EDC</strong> destacan:</p>
+
+<p><strong>Accesibilidad para Todos:</strong> Permitir a los usuarios encontrar y adquirir productos electrónicos desde cualquier lugar
+y en cualquier momento, eliminando las barreras físicas de las tiendas tradicionales.</p>
+
+<p><strong>Variedad de Opciones:</strong> Ofrecer una amplia selección de productos electrónicos, desde artículos de uso diario como
+audífonos y cargadores, hasta equipos especializados como cámaras profesionales y dispositivos inteligentes para el hogar.</p>
+
+<p><strong>Fomentar la Innovación:</strong> Dar a conocer las últimas tendencias tecnológicas, ayudando a los usuarios a mantenerse actualizados
+en un mercado en constante evolución.</p>
+
+<p><strong>Calidad Garantizada:</strong> Asegurar que cada producto disponible cumpla con altos estándares de calidad y durabilidad, respaldados
+por marcas confiables.</p>
+
+<p><strong>Precios Competitivos:</strong> Proporcionar opciones para diferentes presupuestos, con precios justos y competitivos en comparación con
+otras plataformas.</p>
+
+<p><strong>Experiencia de Usuario Excepcional:</strong> Crear un entorno digital amigable y funcional que permita a los clientes disfrutar de un
+proceso de compra sencillo y satisfactorio.</p>
+
+<p>En resumen, <strong>Tienda EDC</strong> tiene como misión convertirse en la primera opción para quienes buscan tecnología avanzada, combinando
+conveniencia, confianza y excelentes precios.</p>
+
+<h2>Funcion</h2>
+<p>La función principal de <strong>Tienda EDC</strong> es permitir que las personas puedan comprar aparatos electrónicos de manera fácil, rápida y segura. Esta
+funcionalidad está diseñada para ofrecer una experiencia de compra integral, desde la exploración del catálogo hasta la recepción del producto en
+la puerta de su hogar.
+
+<h3>Detalles de la Función</h3>
+
+<p><strong>Amplio Catálogo de Productos:</strong> Los usuarios pueden explorar una vasta selección de dispositivos electrónicos, 
+incluyendo:</p> 
+<ul>   
+<li>Teléfonos inteligentes y tablets.</li>
+<li>Laptops, computadoras y accesorios.</li>
+<li>Electrodomésticos inteligentes.</li>
+<li>Gadgets innovadores como relojes inteligentes, auriculares y cámaras.</li>
+</ul> 
+<p><strong>Opciones de Búsqueda y Filtrado:</strong> El sistema permite buscar productos según categorías, marcas, precios o características específicas, ayudando a los
+usuarios a encontrar exactamente lo que necesitan.</p>
+
+<p><strong>Información Detallada de Productos:</strong> Cada artículo incluye especificaciones técnicas, imágenes de alta calidad, reseñas de usuarios y recomendaciones,
+para garantizar que los compradores tomen decisiones informadas.</p>
+
+<p><strong>Métodos de Pago Flexibles:</strong> Los clientes tienen acceso a múltiples opciones de pago, incluyendo tarjetas de crédito, débito, transferencias bancarias y
+pagos digitales.</p>
+
+<p><strong>Promociones y Descuentos Exclusivos:</strong> La plataforma ofrece ofertas personalizadas, ventas flash y descuentos por temporada, incentivando a los usuarios
+a aprovechar los mejores precios.</p>
+
+<p><strong>Proceso de Compra Simplificado:</strong> Un diseño intuitivo permite agregar productos al carrito, verificar la orden y completar la compra en pocos pasos.</p>
+
+</p><strong>Opciones de Envío Convenientes:</strong> Los compradores pueden elegir entre envío estándar, exprés o recogida en puntos de entrega, según sus preferencias
+y necesidades.</p>
+
+<p><strong>Seguridad en la Transacción:</strong> La aplicación garantiza la protección de los datos del usuario mediante sistemas de cifrado avanzados y plataformas de pago
+seguras.</p>
+
+<h2>Publico</h2>
+<p>La función de obtener productos electrónicos a través de compras digitales en Tienda EDC está diseñada para ofrecer una experiencia de adquisición cómoda, rápida y accesible,
+eliminando la necesidad de visitar tiendas físicas. Este enfoque aprovecha la tecnología digital para conectar a los usuarios con un amplio catálogo de productos electrónicos de
+alta calidad, disponible al alcance de un clic.</p>
+
+<p>La función de obtener productos electrónicos a través de compras digitales en Tienda EDC está diseñada para simplificar y modernizar el proceso de adquisición de tecnología,
+permitiendo a los usuarios acceder a una amplia gama de dispositivos desde la comodidad de su hogar.</p>
+
+<p>Con esta funcionalidad, Tienda EDC se consolida como una solución confiable para quienes buscan productos electrónicos a través de un entorno digital moderno, seguro y eficiente.</p>
+
+</body>
+</html>
